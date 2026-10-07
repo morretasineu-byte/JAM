@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 210" fill="none" class="w-full h-full">
+  <!-- SELLATS JAM - Official Brand Logo -->
+  
+  <!-- Main Letters: J, A, M -->
+  <g stroke="#1C1917" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" fill="none">
+    <!-- J: Vertical right stem with clean bottom loop to left -->
+    <path d="M 172 46 L 172 110 C 172 131 157 146 140 146 C 123 146 110 133 110 119 L 110 114" />
+    
+    <!-- A: Architectural Chevron (no crossbar) -->
+    <path d="M 186 146 L 232 46 L 278 146" />
+    
+    <!-- M: Outer verticals and inner diagonals meeting center bead -->
+    <path d="M 292 146 L 292 46 L 336 112 L 380 46 L 380 146" />
+  </g>
+
+  <!-- Terracotta Sealant Bead in Center of M -->
+  <line x1="336" y1="146" x2="336" y2="58" stroke="#C47D59" stroke-width="5.4" stroke-linecap="butt" />
+
+  <!-- Silicone Caulking Gun at (336, 58) angled at -40° -->
+  <g transform="translate(336, 58) rotate(-40)" fill="#1C1917" stroke="#1C1917">
+    <!-- Nozzle (Cone) -->
+    <polygon points="0,-1.2 13,-3 13,3 0,1.2" stroke="none" />
+    
+    <!-- Front Retaining Ring / Collar -->
+    <polygon points="13,-5.2 15.5,-5.2 15.5,5.2 13,5.2" stroke="none" />
+    
+    <!-- Cartridge Cylinder Body -->
+    <rect x="15.5" y="-4.5" width="35" height="9" rx="0.5" stroke="none" />
+    
+    <!-- Skeleton Cradle Lower Rail -->
+    <line x1="15.5" y1="6" x2="50.5" y2="6" stroke-width="1.4" stroke-linecap="round" />
+    
+    <!-- Rear Breech Collar -->
+    <polygon points="50.5,-6.2 53.5,-6.2 53.5,6.2 50.5,6.2" stroke="none" />
+    
+    <!-- Mechanism Body Housing -->
+    <path d="M 53.5,-6.2 L 63,-6.2 L 63,3 L 53.5,3 Z" stroke="none" />
+    
+    <!-- Pistol Grip Handle -->
+    <path d="M 57.5,3 L 62,23 L 68,23 L 63.5,3 Z" stroke="none" stroke-linejoin="round" />
+    <path d="M 61,23.5 Q 65,25 68.5,23.5" stroke-width="2" stroke-linecap="round" fill="none" />
+    
+    <!-- Trigger Lever -->
+    <path d="M 55,4 C 55,8 56.5,12 55.5,14" stroke-width="1.6" stroke-linecap="round" fill="none" />
+    
+    <!-- Plunger Push Rod -->
+    <line x1="53.5" y1="-0.5" x2="81" y2="-0.5" stroke-width="2.2" stroke-linecap="square" fill="none" />
+    <!-- Rear Pull Hook -->
+    <path d="M 81,-0.5 L 81,9 C 81,10.5 79.5,11.5 77.5,10.5" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+
+  <!-- Subtitle: ESPECIALISTES EN JUNTES I SEGELLATS -->
+  <text x="250" y="188" 
+        text-anchor="middle" 
+        fill="#1C1917" 
+        font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" 
+        font-size="14.5" 
+        font-weight="600" 
+        letter-spacing="4.8">ESPECIALISTES EN JUNTES I SEGELLATS</text>
+</svg>
